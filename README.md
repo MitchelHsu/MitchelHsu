@@ -9,7 +9,7 @@ Where I work on 5th Generation Mobile core networks and Federated Learning
 
 ## 📈 GitHub Stats
 
-[![Mitchel's GitHub stats](https://github-readme-stats-mitchelhsu.vercel.app/api?username=MitchelHsu&show_icons=true)](https://github.com/MitchelHsu/github-readme-stats)
+[![Mitchel's GitHub stats](https://github-readme-stats-mitchelhsu.vercel.app/api?username=MitchelHsu&show_icons=true&rank_icon=github)](https://github.com/MitchelHsu/github-readme-stats)
 ![Top Langs](https://github-readme-stats-mitchelhsu.vercel.app/api/top-langs/?username=MitchelHsu&layout=donut)
 
 <!--
