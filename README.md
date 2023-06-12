@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mitchel Hsu!
+### Hi there 👋, I'm Mitchel
 
 
 
