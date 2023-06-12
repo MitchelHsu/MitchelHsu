@@ -1,6 +1,16 @@
 ### Hi there 👋, I'm Mitchel
 
+I'm an incoming MSCS student @[UC San Diego](https://ucsd.edu/)!
 
+I currently work as a Research Assistant @[NYCU](https://en.nycu.edu.tw/) in Taiwan.
+Where I work on 5th Generation Mobile core networks and Federated Learning
+
+
+
+## 📈 GitHub Stats
+
+[![Mitchel's GitHub stats](https://github-readme-stats-mitchelhsu.vercel.app/api?username=MitchelHsu&show_icons=true)](https://github.com/MitchelHsu/github-readme-stats)
+![Top Langs](https://github-readme-stats-mitchelhsu.vercel.app/api/top-langs/?username=MitchelHsu&layout=donut)
 
 <!--
 **MitchelHsu/MitchelHsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
