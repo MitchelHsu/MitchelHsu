@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Mitchel
 
-I'm an incoming MSCS student @[UC San Diego](https://ucsd.edu/)!
+I'm an incoming MSCS student [@UC San Diego](https://ucsd.edu/)!
 
-I currently work as a Research Assistant @[NYCU](https://en.nycu.edu.tw/) in Taiwan.
+I currently work as a Research Assistant [@NYCU](https://en.nycu.edu.tw/) in Taiwan.
 Where I work on 5th Generation Mobile core networks and Federated Learning
 
 
