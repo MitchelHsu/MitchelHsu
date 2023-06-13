@@ -1,15 +1,22 @@
 ### Hi there 👋, I'm Mitchel
 
-- 👨‍🎓 I'm an incoming MSCS student [@UC San Diego](https://ucsd.edu/)!
-- 🌱 Rcently, I started working on the Fine-tuning of Large Language Models.
-- 🧑‍💻 I currently work as a Research Assistant [@NYCU](https://en.nycu.edu.tw/) in Taiwan.
-     Where I focus on 5th Generation Mobile core networks and Federated Learning applications.
+- 🧜‍♂️ I'm an incoming MSCS student [@UC San Diego](https://ucsd.edu/)!
+- 🤗 I'm starting to working on the Fine-tuning of Large Language Models, and applying them to accomplish complex tasks!
+- 🧑‍💻 I'm a Research Assistant [@Intelligent Systems Lab](https://github.com/Intelligent-Systems-Lab), NYCU.
+- 💡 I focused on 5th Generation Mobile core networks and Federated Learning applications.
      I also wored on the [ETSI Open Source MANO](https://osm.etsi.org/) for Virtualized Network Function management.
 
 
-### Find Me On
+### 💻 I'm Fluent In
 
-<a href="https://github.com/MitchelHsu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mitchel-hsu-72b4121ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mih022@ucsd.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+### 🤩 Find Me On
+
+<a href="https://github.com/MitchelHsu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mitchel-hsu-72b4121ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mih022@ucsd.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- <a href="https://discordapp.com/users/665550588582297622"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a> -->
 
 ### 📈 GitHub Stats
 
