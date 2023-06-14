@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Mitchel
 
-- 🧜‍♂️ I'm an incoming MSCS student [@UC San Diego](https://ucsd.edu/)!
-- 🧑‍💻 I'm also a Research Assistant [@Intelligent Systems Lab](https://github.com/Intelligent-Systems-Lab), NYCU.
-- 🤗 I'm currently working on the Fine-tuning of Large Language Models, and applying them to accomplish complex tasks.
-- 💡 I previously focused on 5th Generation Mobile core networks and Federated Learning applications.
-     I also worked on the [ETSI Open Source MANO](https://osm.etsi.org/) for Virtualized Network Function management.
+
+- 🧜‍♂️ <samp>I'm an incoming MSCS student [@UC San Diego](https://ucsd.edu/)!</samp>
+- 🧑‍💻 <samp>I'm also a Research Assistant [@Intelligent Systems Lab](https://github.com/Intelligent-Systems-Lab), NYCU.</samp>
+- 🤗 <samp>I'm currently working on the Fine-tuning of Large Language Models, and applying them to accomplish complex tasks.</samp>
+- 💡 <samp>I previously worked on the 5th Generation Mobile core networks and Multi-access Edge Computing along with Federated Learning applications. I also developed the [ETSI Open Source MANO](https://osm.etsi.org/) for Virtualized Network Function management.</samp>
 
 ### 💻 Tech Stack
 
