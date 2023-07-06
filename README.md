@@ -3,7 +3,7 @@
 - 🧜‍♂️ <samp>I'm an incoming MSCS student [@UC San Diego](https://ucsd.edu/)!</samp>
 - 🧑‍💻 <samp>I'm also a Research Assistant [@Intelligent Systems Lab](https://github.com/Intelligent-Systems-Lab), [NYCU](https://en.nycu.edu.tw/).</samp>
 - 🤗 <samp>I'm currently working on the Fine-tuning of Large Language Models, and applying them to accomplish complex tasks with 🦜🔗[LangChain](https://github.com/hwchase17/langchain).</samp>
-- 💡 <samp>I previously worked on the 5th Generation Mobile core networks and Multi-access Edge Computing along with Federated Learning applications. I also developed the [ETSI Open Source MANO](https://osm.etsi.org/) for Virtualized Network Function management.</samp>
+- 💡 <samp>I previously worked on the deployment of 5G Multi-access Edge Computing with [free5GC](https://github.com/free5gc/free5gc) for edge Federated Learning. I also developed the [ETSI Open Source MANO](https://osm.etsi.org/) for Virtualized Network Function management.</samp>
 
 ### 💻 Tech Stack
 
