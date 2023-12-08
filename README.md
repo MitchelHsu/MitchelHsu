@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mitchel
+## Hi 👋, I'm Mitchel
 
 - 🧜‍♂️ <samp>I'm a Computer Science Masters student [@UC San Diego](https://ucsd.edu/)!</samp>
 - 🧑‍💻 <samp>I previously work as a R&D Engineer [@Intelligent Systems Lab](https://github.com/Intelligent-Systems-Lab), [NYCU](https://en.nycu.edu.tw/).</samp>
